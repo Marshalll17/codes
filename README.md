@@ -1,4 +1,7 @@
 # codes
+The Data
+
+I will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
 
 Goal
 
